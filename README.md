@@ -45,7 +45,3 @@ These findings are directional and should be paired with acquisition cost data b
 ## Privacy Note
 
 This repository should not contain customer names, emails, phone numbers, addresses, order IDs, contact-level records, raw exports, or customer-level processed datasets. The public package is limited to sanitized presentation/report materials and public-safe reviewer documentation.
-
-## AI Disclosure
-
-I used ChatGPT and Codex to help structure the project, generate Python scripts, document the workflow, and prepare sanitized report and presentation materials. I reviewed the outputs and kept raw company/customer data out of the public-facing submission.
