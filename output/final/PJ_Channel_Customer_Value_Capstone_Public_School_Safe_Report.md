@@ -187,10 +187,6 @@ Public-facing final deliverables live in:
 
 Raw exports and customer-level processed files remain local/internal only.
 
-## 16. AI Disclosure / Tools Used
-
-I used ChatGPT and Codex to help structure the project, generate Python scripts, document the workflow, and prepare sanitized report/presentation materials. I reviewed the outputs and kept raw company/customer data out of the public-facing submission.
-
-## 17. Conclusion
+## 16. Conclusion
 
 The capstone shows that acquisition/source channels should be evaluated on customer value and retention behavior, not just first purchase or aggregate traffic. Among headline-eligible channels, Paid Search has the strongest 12-month revenue and repeat purchase signals, while Organic Search has the strongest follow-on consumables signal. The next version of the analysis should add cost data and strengthen attribution capture so customer value can be connected to profitability.
